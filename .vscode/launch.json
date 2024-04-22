@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "C#: FrontendGateway",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/src/gateways/FrontendGateway/FrontendGateway.csproj",
+            "launchConfigurationId": "TargetFramework=;FrontendGateway"
+        }
+    ]
+}
